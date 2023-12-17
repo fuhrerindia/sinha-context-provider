@@ -1,6 +1,6 @@
 {
   "name": "sinha-context-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,6 @@
     "url": "https://github.com/fuhrerindia/sinha-context-provider"
   },
   "homepage": "https://github.com/fuhrerindia/sinha-context-provider#readme",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": ["react", "context"]
 }
