@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Paurush Sinha",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fuhrerindia/sinha-context-provider"
+  },
+  "homepage": "https://github.com/fuhrerindia/sinha-context-provider#readme",
   "license": "ISC"
 }
